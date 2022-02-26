@@ -1,4 +1,4 @@
-# certificates
+# Certificate
 
 ## Java Web Developer Nanodegree program
 a Udacity 4 month Java backend & Spring nanodegree
