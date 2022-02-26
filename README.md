@@ -13,7 +13,17 @@ https://www.udacity.com/course/java-developer-nanodegree--nd035
 ### Certificate 
 https://graduation.udacity.com/confirm/ETZGE2GH
 
+
 ### Projects Link
-https://drive.google.com/drive/folders/1bzLMSZhy3iPDVEuR_b823xOW0UQVlgR-
+
+![Screenshot](0-projects_requirements.png)
+
+https://github.com/tasneem-ipraheem/nano-devOps
+
+https://github.com/tasneem-ipraheem/nano-superDuperDrive
+
+https://github.com/tasneem-ipraheem/spring-data-car-backend-system
+
+https://github.com/tasneem-ipraheem/nano-spring-jpa-pets-shop
 
 
