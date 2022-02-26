@@ -1,11 +1,12 @@
 # certificates
 
-## Nanodegrees, Java Web Developer Nanodegree program (Udacity).
-4 month Java backend with Spring.
+## Java Web Developer Nanodegree program
+a Udacity 4 month Java backend & Spring nanodegree
 
 ### Content
 Spring MVC, Spring Boot, GraphQL, REST APIs, microservices, Swagger, 
 SQL, JPA, Jenkins, CI/CD pipeline, ..... etc
+
 https://www.udacity.com/course/java-developer-nanodegree--nd035
 
 
