@@ -16,8 +16,6 @@ https://graduation.udacity.com/confirm/ETZGE2GH
 
 ### Projects Link
 
-![Screenshot](0-projects_requirements.png)
-
 https://github.com/tasneem-ipraheem/nano-devOps
 
 https://github.com/tasneem-ipraheem/nano-superDuperDrive
