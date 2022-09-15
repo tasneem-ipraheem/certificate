@@ -5,7 +5,7 @@ a Udacity 4 month Java backend & Spring nanodegree
 
 ### Content
 Spring MVC, Spring Boot, GraphQL, REST APIs, microservices, Swagger, 
-SQL, JPA, Jenkins, CI/CD pipeline, ..... etc
+SQL, JPA, Jenkins, CI/CD pipeline, Splunk, JUnit, Selenium ..... etc
 
 For more information about the Nanodegree program check the following link
 ###
